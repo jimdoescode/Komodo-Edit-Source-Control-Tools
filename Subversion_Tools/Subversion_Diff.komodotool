@@ -1,0 +1,18 @@
+{
+  "insertOutput": 0, 
+  "parseRegex": "", 
+  "doNotOpenOutputWindow": 0, 
+  "icon": "chrome://famfamfamsilk/skin/icons/application_tile_horizontal.png", 
+  "keyboard_shortcut": "", 
+  "name": "Subversion Diff", 
+  "operateOnSelection": 0, 
+  "value": [
+    "svn diff \"%f\""
+  ], 
+  "cwd": "%p", 
+  "env": "", 
+  "showParsedOutputList": 0, 
+  "type": "command", 
+  "parseOutput": 0, 
+  "runIn": "command-output-window"
+}

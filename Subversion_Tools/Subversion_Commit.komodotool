@@ -1,0 +1,19 @@
+{
+  "insertOutput": "0", 
+  "keyboard_shortcut": "", 
+  "name": "Subversion Commit", 
+  "parseRegex": "", 
+  "runIn": "command-output-window", 
+  "operateOnSelection": "0", 
+  "value": [
+    "svn ci -m \"%(ask:Commit message:)\""
+  ], 
+  "parseOutput": "0", 
+  "version": "1.0.7", 
+  "env": "", 
+  "doNotOpenOutputWindow": "0", 
+  "showParsedOutputList": "0", 
+  "type": "command", 
+  "cwd": "%p", 
+  "icon": "chrome://famfamfamsilk/skin/icons/accept.png"
+}

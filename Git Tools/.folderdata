@@ -1,0 +1,5 @@
+{
+  "priority": 100, 
+  "type": "toolbar", 
+  "name": "Git Tools"
+}

@@ -1,0 +1,18 @@
+{
+  "insertOutput": 0, 
+  "parseRegex": "", 
+  "doNotOpenOutputWindow": 0, 
+  "icon": "chrome://crystal/skin/icons/move_task_up.png", 
+  "keyboard_shortcut": "", 
+  "name": "Git Push Remote", 
+  "operateOnSelection": 0, 
+  "value": [
+    "git push -u %(ask:Remote URL) master"
+  ], 
+  "cwd": "%p", 
+  "env": "", 
+  "showParsedOutputList": 0, 
+  "type": "command", 
+  "parseOutput": 0, 
+  "runIn": "command-output-window"
+}

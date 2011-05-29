@@ -1,0 +1,18 @@
+{
+  "insertOutput": 0, 
+  "parseRegex": "", 
+  "doNotOpenOutputWindow": 0, 
+  "icon": "chrome://crystal/skin/icons/agt_action_success.png", 
+  "keyboard_shortcut": "", 
+  "name": "Git Commit", 
+  "operateOnSelection": 0, 
+  "value": [
+    "git commit -a -m \"%(ask:Commit Message)\""
+  ], 
+  "cwd": "%p", 
+  "env": "", 
+  "showParsedOutputList": 0, 
+  "type": "command", 
+  "parseOutput": 0, 
+  "runIn": "command-output-window"
+}
