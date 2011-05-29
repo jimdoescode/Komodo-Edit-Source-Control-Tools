@@ -1,1 +1,32 @@
 To import into Komodo Edit open the Toolbox Sidebar then click the gear icon and select "Import from Folder" then browse to the folder where your desired tools reside and click "Open". You may have to restart Komodo Edit before the tool buttons become visible in your toolbar.
+
+
+The following Git Tools are available:
+
+Git Add All New - Adds any new files in your Komodo project directory to your local git repository.
+
+Git Checkout - Checks out a copy of a remote repository into the project root directory
+
+Git Commit - Commits all changes and new files to your git repository.
+
+Git Diff - Diffs the currently selected file with the version stored in git.
+
+Git Init - Initializes a new git repository in the project root directory.
+
+Git Push Remote - Pushes local repository changes out to a remote server like GitHub.
+
+Git Update - Updates the project directory with the most recent version of a repository
+
+
+
+The following Subversion Tools are available:
+
+Subversion Add - Adds all new files starting in the project directory to the repository.
+
+Subversion Commit - Commits any changes or new files to the local repository.
+
+Subversion Delete - Removes all locally deleted files from the repository.
+
+Subversion Diff - Diffs the currently selected file with the version stored in the repository.
+
+Subversion Update - Updates a project directory with the most recent version of a repository. 
