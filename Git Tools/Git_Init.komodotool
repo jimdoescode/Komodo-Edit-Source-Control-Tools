@@ -1,18 +1,19 @@
 {
   "insertOutput": 0, 
   "parseRegex": "", 
-  "doNotOpenOutputWindow": 0, 
-  "icon": "chrome://crystal/skin/icons/greenled.png", 
-  "keyboard_shortcut": "", 
   "name": "Git Init", 
+  "keyboard_shortcut": "", 
+  "runIn": "command-output-window", 
   "operateOnSelection": 0, 
   "value": [
     "git init"
   ], 
-  "cwd": "%p", 
+  "parseOutput": 0, 
+  "version": "1.0.7", 
   "env": "", 
+  "doNotOpenOutputWindow": 0, 
   "showParsedOutputList": 0, 
   "type": "command", 
-  "parseOutput": 0, 
-  "runIn": "command-output-window"
+  "cwd": "%p", 
+  "icon": "chrome://crystal/skin/icons/greenled.png"
 }

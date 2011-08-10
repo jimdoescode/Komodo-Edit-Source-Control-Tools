@@ -7,12 +7,13 @@
   "name": "Git Update", 
   "operateOnSelection": 0, 
   "value": [
-    "git pull"
+    "git pull %(ask:Repository)"
   ], 
-  "cwd": "%p", 
+  "parseOutput": 0, 
+  "version": "1.0.7", 
   "env": "", 
   "showParsedOutputList": 0, 
   "type": "command", 
-  "parseOutput": 0, 
+  "cwd": "%p", 
   "runIn": "command-output-window"
 }
