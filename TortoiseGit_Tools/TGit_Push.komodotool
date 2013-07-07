@@ -1,0 +1,19 @@
+{
+  "insertOutput": 0, 
+  "parseRegex": "", 
+  "name": "TGit Push", 
+  "keyboard_shortcut": "", 
+  "runIn": "command-output-window", 
+  "operateOnSelection": 0, 
+  "value": [
+    "\"C:\\Program Files\\TortoiseGit\\bin\\TortoiseGitProc.exe\" /command:push /path:\"%p\""
+  ], 
+  "parseOutput": 0, 
+  "version": "1.0.7", 
+  "env": "", 
+  "doNotOpenOutputWindow": 0, 
+  "showParsedOutputList": 0, 
+  "type": "command", 
+  "cwd": "%p", 
+  "icon": "chrome://crystal/skin/icons/move_task_up.png"
+}

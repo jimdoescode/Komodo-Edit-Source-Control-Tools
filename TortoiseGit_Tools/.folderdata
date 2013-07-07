@@ -1,0 +1,6 @@
+{
+  "priority": 100, 
+  "version": "0.1.1", 
+  "type": "toolbar", 
+  "name": "TortoiseGit Tools"
+}
