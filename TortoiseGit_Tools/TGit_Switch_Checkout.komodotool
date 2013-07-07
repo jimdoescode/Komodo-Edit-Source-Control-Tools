@@ -1,0 +1,18 @@
+{
+  "insertOutput": 0, 
+  "parseRegex": "", 
+  "name": "TGit Switch/Checkout", 
+  "keyboard_shortcut": "", 
+  "runIn": "command-output-window", 
+  "operateOnSelection": 0, 
+  "value": [
+    "\"C:\\Program Files\\TortoiseGit\\bin\\TortoiseGitProc.exe\" /command:switch /path:\"%p\""
+  ], 
+  "parseOutput": 0, 
+  "version": "1.0.7", 
+  "env": "", 
+  "doNotOpenOutputWindow": 0, 
+  "showParsedOutputList": 0, 
+  "type": "command", 
+  "cwd": "%p"
+}

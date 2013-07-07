@@ -1,12 +1,12 @@
 {
   "insertOutput": 0, 
   "parseRegex": "", 
-  "name": "Git Checkout", 
+  "name": "TGit Add", 
   "keyboard_shortcut": "", 
   "runIn": "command-output-window", 
   "operateOnSelection": 0, 
   "value": [
-    "git clone %(ask:Repository URL)"
+    "\"C:\\Program Files\\TortoiseGit\\bin\\TortoiseGitProc.exe\" /command:add /path:\"%p\""
   ], 
   "parseOutput": 0, 
   "version": "1.0.7", 
@@ -15,5 +15,5 @@
   "showParsedOutputList": 0, 
   "type": "command", 
   "cwd": "%p", 
-  "icon": "chrome://crystal/skin/icons/down.png"
+  "icon": "chrome://crystal/skin/icons/edit_add.png"
 }
