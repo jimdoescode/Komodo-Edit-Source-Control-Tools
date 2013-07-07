@@ -15,5 +15,5 @@
   "showParsedOutputList": 0, 
   "type": "command", 
   "cwd": "%p", 
-  "icon": "chrome://crystal/skin/icons/move_task_up.png"
+  "icon": "chrome://crystal/skin/icons/14_layer_novisible.png"
 }

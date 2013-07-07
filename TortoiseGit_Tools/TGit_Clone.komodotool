@@ -14,6 +14,6 @@
   "doNotOpenOutputWindow": 0, 
   "showParsedOutputList": 0, 
   "type": "command", 
-  "cwd": "%p", 
-  "icon": "chrome://crystal/skin/icons/move_task_up.png"
+  "cwd": "%p",
+  "icon": "chrome://crystal/skin/icons/edit_add.png"
 }
